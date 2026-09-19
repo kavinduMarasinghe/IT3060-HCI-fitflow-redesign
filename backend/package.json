@@ -1,0 +1,7 @@
+{
+  "name": "fitflow-backend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "FitFlow NestJS core API",
+  "scripts": { "start:dev": "nest start --watch", "lint": "eslint .", "test": "jest" }
+}

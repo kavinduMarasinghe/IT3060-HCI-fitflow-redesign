@@ -1,0 +1,7 @@
+{
+  "name": "fitflow-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "FitFlow React Native (+ RN Web) app",
+  "scripts": { "start": "expo start", "lint": "eslint .", "test": "jest" }
+}
